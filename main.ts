@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { isProxyWorking } from './proxyValidator';
+import { isProxyWorking } from './proxyvalid';
 import { withRetry } from './retry';
 import { vote } from './vote';
 import { logger } from './logger';
