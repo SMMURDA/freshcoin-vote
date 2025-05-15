@@ -1,7 +1,9 @@
 ### Freshcoins Bot
+![FreshCoins](https://img.shields.io/badge/FreshCoins-AutoVote-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-Automation-green?logo=google-chrome)
 
-Automated vote bot for `Freshcoins.io` built with TypeScript and Puppeteer.
-
+Automated vote bot for `Freshcoins.io` 
 #### Features
 - Supports both authenticated and unauthenticated proxies
 - Rotates proxy after each vote session
