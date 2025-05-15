@@ -1,6 +1,6 @@
 ### Freshcoins Bot
 
-This is an automated vote bot for FreshCoins.io built with TypeScript and Puppeteer.
+Automated vote bot for `Freshcoins.io` built with TypeScript and Puppeteer.
 
 #### Features
 - Supports both authenticated and unauthenticated proxies
@@ -9,10 +9,6 @@ This is an automated vote bot for FreshCoins.io built with TypeScript and Puppet
 #### Setup
 ```bash
 npx tsx src/main.ts
-```
-or
-```bash
-npx tsx main.ts
 ```
 #### Legal Term
 
